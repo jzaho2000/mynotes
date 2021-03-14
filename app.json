@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "muistio3",
-    "slug": "muistio3",
+    "name": "MyNotes",
+    "slug": "mynotes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Originally school project",
+    "githubUrl": "https://github.com/jzaho2000/mynotes.git"
   }
 }
